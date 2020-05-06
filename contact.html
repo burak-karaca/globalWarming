@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: 'Lato', sans-serif;
+        }
+
+        html {
+            background-image: url(img/altitude-calm-waters-climate-change-2859248.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            font-size: 10px;
+            letter-spacing: 2px;
+        }
+
+        div {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0 auto;
+            padding:
+        }
+
+        div h1 {
+            color: white;
+            font-size: 5rem;
+        }
+
+        div span {
+            font-size: 2rem;
+            color: white;
+            padding-right: 2rem;
+
+        }
+
+        div input[type="text"] {
+            font-size: 2.5rem;
+            margin-top: 5rem;
+            padding: 1rem;
+            border-radius: 10px;
+            border: none;
+        }
+
+        div input[placeholder="Message"] {
+            margin-bottom: 3rem;
+            padding-bottom: 8rem;
+            border-radius: 10px;
+        }
+
+        div input[type="email"] {
+            font-size: 2.5rem;
+            margin-top: 2rem;
+            padding: 1rem;
+            border-radius: 10px;
+            border: none;
+        }
+
+        div button {
+            font-size: 1.5rem;
+            padding: 10px 20px;
+            background-color: #2ecc71;
+            border: none;
+            border-radius: 10px;
+            color: white;
+        }
+
+        div button:hover {
+            color: #2ecc71;
+            background-color: #fff;
+            transition: color 2s;
+            transition: background 1.5s;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <form action="alert('succesful!')">
+            <h1>CONTACT US</h1>
+            <input type="radio" name="choice" class="radio"><span>SAY Hi</span> <input type="radio" name="choice"><span>Leave a Note</span><br>
+            <input type="text" placeholder="Your Name" required><br>
+            <input type="email" placeholder="Your E-Mail" required><br>
+            <input type="text" placeholder="Message" required><br>
+            <button onclick="myFunction()">SUBMIT</button>
+        </form>
+    </div>
+    <script>
+        function myFunction() {
+            alert("thanks!")
+        }
+    </script>
+</body></html>

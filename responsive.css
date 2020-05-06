@@ -1,0 +1,1131 @@
+@media only screen and (max-width:1530px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    html {
+        font-size: 10px;
+
+    }
+
+
+    .container img {
+        width: 100%;
+        height: 1000px;
+    }
+
+    .bg {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        padding-left: 2rem;
+        position: fixed;
+        width: 100%;
+        background: #191919;
+        opacity: 0.7;
+    }
+
+    .header ul li {
+        list-style-type: none;
+        float: left;
+        padding: 2.5rem;
+
+    }
+
+    .header ul li a {
+        text-decoration: none;
+        color: white;
+        border: 1.5px solid white;
+        border-radius: 25px;
+        padding: 10px 20px;
+        font-size: 1.5rem;
+        font-weight: 700;
+        font-family: sans-serif;
+        opacity: 1;
+    }
+
+    .header ul li a:hover {
+        background-color: white;
+        color: black;
+        border: none;
+        transition: background 0.5s;
+    }
+
+    #contact a:hover {
+        color: white;
+        background-color: orange;
+        transition: background 0.5s;
+
+
+    }
+
+    #contact {
+        position: absolute;
+        right: 0;
+
+    }
+
+    #contact a {
+        color: #fff;
+        border: 1.5px solid orange;
+    }
+
+    .header h1 {
+        color: white;
+        position: absolute;
+        top: 150px;
+        text-align: center;
+        font-size: 4rem;
+        font-weight: 500;
+        width: 100%;
+        font-family: sans-serif;
+    }
+
+    .containertwo {
+        width: 100%;
+        height: 100px;
+        padding: 3rem;
+
+    }
+
+    .containertwo h2 {
+        font-size: 4rem;
+
+        text-align: center;
+        letter-spacing: 1px;
+        word-spacing: 7px;
+    }
+
+    .containerthree {
+        width: 100vw;
+        height: 100vh;
+        justify-content: center;
+        display: flex;
+    }
+
+    .box {
+        width: 25%;
+        height: 130%;
+        float: left;
+        box-shadow: 0 0 9px black;
+        margin-right: 1rem;
+        justify-content: center;
+
+    }
+
+    hr {
+        color: #616f39;
+        border: 1px solid green;
+        border-top: none;
+    }
+
+    .box h2 {
+        text-align: center;
+        font-size: 2rem;
+        padding-top: 2rem;
+    }
+
+    #secondp {
+        padding-top: 2.1rem;
+    }
+
+    #thirdp {
+        padding-top: 0.5rem;
+    }
+
+    #fourthp {
+        padding: 2rem;
+    }
+
+    .box p {
+        font-size: 1.3rem;
+        padding-top: 1rem;
+        text-align: center;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+        font-family: sans-serif;
+    }
+
+    .containerthree {
+        width: 100%;
+        height: 210px;
+        padding: 3rem;
+    }
+
+
+
+    .containerfourth img {
+        padding-top: 5rem;
+        width: 100%;
+        height: 100%;
+    }
+
+    .counter1 {
+        position: absolute;
+        top: 1520px;
+        width: 100%;
+        text-align: center;
+        font-size: 3.5rem;
+
+    }
+
+    .counter3 {
+        position: absolute;
+        top: 2050px;
+        width: 100%;
+        font-size: 3.5rem;
+        text-align: center;
+    }
+
+    .counter4 {
+        position: absolute;
+        top: 1690px;
+        width: 100%;
+        font-size: 3.5rem;
+        text-align: center;
+    }
+
+    .counter2 {
+        position: absolute;
+        top: 1870px;
+        width: 100%;
+        font-size: 3.5rem;
+
+        text-align: center;
+    }
+
+    .counterh2 {
+        position: absolute;
+        top: 1450px;
+
+        text-align: center;
+        width: 100%;
+        text-transform: uppercase;
+        font-size: 2.5rem;
+    }
+
+    .counterh2two {
+        position: absolute;
+        top: 1620px;
+        width: 100%;
+
+        font-size: 2.5rem;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .counterh2three {
+        position: absolute;
+        top: 1790px;
+        width: 100%;
+
+        font-size: 2.5rem;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .counterh2four {
+        position: absolute;
+        top: 1960px;
+        width: 100%;
+        font-size: 2.5rem;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .containerfifth img {
+        width: 100%;
+        height: auto;
+    }
+
+
+
+    .video {
+        position: absolute;
+        top: 2100px;
+        width: 100%;
+    }
+
+    .video img {
+        width: 50%;
+        height: 550px;
+        float: left;
+        padding: 5rem;
+        margin-top: 10rem;
+    }
+
+    .video iframe {
+        width: 50%;
+        float: left;
+        padding: 5rem;
+        margin-top: 10rem;
+        height: 550px
+    }
+
+    #videoh2 {
+        font-size: 2.5rem;
+        text-align: center;
+        color: black;
+        text-transform: uppercase;
+    }
+
+    #hr {
+        border: 1px solid black;
+        width: 50%;
+        margin-left: 25%;
+        border-top: none;
+        margin-bottom: 5rem;
+
+    }
+
+    .information div h2 {
+        color: black;
+        width: 100%;
+    }
+
+    .inf {
+        position: absolute;
+        top: 2950px;
+
+    }
+
+    .information img {
+        width: 30%;
+        float: left;
+    }
+
+    .information h2 {
+        float: left;
+    }
+
+    .information p {
+        width: 50%;
+        font-size: 1.5rem;
+        float: left;
+    }
+
+    .a1,
+    .a2,
+    .a3,
+    .a5,
+    .a6,
+    .a7,
+    .a8,
+    .a9 {
+
+        width: 50%;
+        float: left;
+        padding-left: 1.2rem;
+        font-weight: 600;
+        color: white;
+        font-size: ;
+        padding-top: 1rem;
+    }
+
+    .a1,
+    .a3,
+    .a6,
+    .a8 {
+        padding-left: 2rem;
+    }
+
+
+}
+
+@media only screen and (max-width:650px) {
+    .containertwo h2 {
+        font-size: 3.8rem;
+    }
+
+    .container img {
+        height: 400px;
+    }
+
+    .container h1 {
+        font-size: 2.5rem;
+        top: 90px;
+        font-family: sans-serif;
+        font-weight: 500;
+    }
+
+    .box {
+        width: 100%;
+        float: none;
+        margin-bottom: 2.5rem;
+    }
+
+    .header ul li a {
+        font-size: 1.3rem;
+    }
+
+    .header ul li {
+        padding-right: 0;
+    }
+
+    .containerthree {
+        width: 100%;
+        height: 100%;
+        justify-content: none;
+        display: block;
+    }
+
+    .containerfourth img {
+        padding-top: 5rem;
+        width: 100%;
+        height: 600px;
+    }
+
+    .counter1 {
+        position: absolute;
+        top: 1460px;
+        width: 100%;
+        text-align: center;
+        font-size: 2.5rem;
+    }
+
+    .counter3 {
+        position: absolute;
+        top: 1570px;
+        width: 100%;
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    .counter4 {
+        position: absolute;
+        top: 1670px;
+        width: 100%;
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    .counter2 {
+        position: absolute;
+        top: 1790px;
+        width: 100%;
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    .counterh2 {
+        position: absolute;
+        top: 1420px;
+
+        text-align: center;
+        width: 100%;
+        text-transform: uppercase;
+        font-size: 1.6rem;
+    }
+
+    .counterh2two {
+        position: absolute;
+        top: 1530px;
+        width: 100%;
+
+        font-size: 1.6rem;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .counterh2three {
+        position: absolute;
+        top: 1630px;
+        width: 100%;
+        ;
+        font-size: 1.6rem;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .counterh2four {
+        position: absolute;
+        top: 1730px;
+        width: 100%;
+
+        font-size: 1.6rem;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .box p {
+        font-size: 1.30rem;
+        padding-bottom: 2rem;
+    }
+
+    .header ul li a:hover {
+        background-color: white;
+        color: black;
+        border: none;
+        transition: background 0.5s;
+    }
+
+    #contact a:hover {
+        color: white;
+        background-color: orange;
+        transition: background 0.5s;
+
+
+    }
+
+
+
+    .video {
+        position: absolute;
+        top: 1750px;
+        width: 100%;
+    }
+
+    .video img {
+        width: 50%;
+        height: 300px;
+        float: left;
+        padding: 5rem;
+        margin-top: 10rem;
+    }
+
+    .video iframe {
+        width: 50%;
+        float: left;
+        padding: 5rem;
+        margin-top: 10rem;
+        height: 300px;
+    }
+
+    #videoh2 {
+        font-size: 2.5rem;
+        text-align: center;
+        color: black;
+        text-transform: uppercase;
+    }
+
+    #hr {
+        border: 1px solid black;
+        width: 50%;
+        margin-left: 25%;
+        border-top: none;
+        margin-bottom: 5rem;
+
+    }
+
+    .information div h2 {
+        color: black;
+        width: 100%;
+    }
+
+    .inf {
+        position: absolute;
+        top: 2250px;
+
+    }
+
+    #infimg {
+        height: 900px;
+    }
+
+    .information img {
+        width: 75px;
+        height: 75px;
+        float: left;
+    }
+
+    .information h2 {
+        float: left;
+    }
+
+    .information p {
+        width: 50%;
+        font-size: 0.9rem;
+        float: left;
+        height: 150px;
+    }
+
+    .a1,
+    .a2,
+    .a3,
+    .a5,
+    .a6,
+    .a7,
+    .a8,
+    .a9 {
+
+        width: 50%;
+        float: left;
+        padding-left: 1.2rem;
+        font-weight: 600;
+        color: white;
+        font-size: ;
+        margin-top: 1rem;
+
+    }
+
+    .a1,
+    .a3,
+    .a6,
+    .a8 {
+        padding-left: 2rem;
+    }
+
+}
+
+@media only screen and (max-width:500px) {
+    .containertwo h2 {
+        font-size: 3rem;
+    }
+
+    .container img {
+        height: 400px;
+    }
+
+    .container h1 {
+        font-size: 1.8rem;
+        top: 80px;
+        font-family: sans-serif;
+        font-weight: 500;
+    }
+
+    .box {
+        width: 100%;
+        float: none;
+        margin-bottom: 2.5rem;
+    }
+
+    #contact {
+        padding-right: 1rem;
+    }
+
+    .header ul li {}
+
+    .header ul li a {
+        font-size: 1rem;
+    }
+
+    .bg {
+        padding: 0;
+
+    }
+
+    .containerthree {
+        width: 100%;
+        height: 100%;
+        justify-content: none;
+        display: block;
+    }
+
+    .containerfourth img {
+        padding-top: 5rem;
+        width: 100%;
+        height: 600px;
+    }
+
+    .counter1 {
+        position: absolute;
+        top: 1430px;
+        width: 100%;
+        text-align: center;
+        font-size: 2.5rem;
+
+    }
+
+    .counter3 {
+        position: absolute;
+        top: 1540px;
+        width: 100%;
+        font-size: 2.5rem;
+
+        text-align: center;
+    }
+
+    .counter4 {
+        position: absolute;
+        top: 1640px;
+        width: 100%;
+        font-size: 2.5rem;
+
+        text-align: center;
+    }
+
+    .counter2 {
+        position: absolute;
+        top: 1760px;
+        width: 100%;
+        font-size: 2.5rem;
+
+        text-align: center;
+    }
+
+    .counterh2 {
+        position: absolute;
+        top: 1390px;
+
+        text-align: center;
+        width: 100%;
+        text-transform: uppercase;
+        font-size: 1.6rem;
+    }
+
+    .counterh2two {
+        position: absolute;
+        top: 1500px;
+        width: 100%;
+
+        font-size: 1.6rem;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .counterh2three {
+        position: absolute;
+        top: 1600px;
+        width: 100%;
+
+        font-size: 1.6rem;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .counterh2four {
+        position: absolute;
+        top: 1700px;
+        width: 100%;
+
+        font-size: 1.6rem;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .box p {
+        font-size: 1.3rem;
+        padding-bottom: 1rem;
+    }
+
+    .header ul li a:hover {
+        background-color: white;
+        color: black;
+        border: none;
+        transition: background 0.5s;
+    }
+
+    #contact a:hover {
+        color: white;
+        background-color: orange;
+        transition: background 0.5s;
+
+
+    }
+
+    .video {
+        position: absolute;
+        top: 1800px;
+        width: 100%;
+    }
+
+    .video img {
+        display: none;
+    }
+
+    .video iframe {
+        width: 100%;
+        float: left;
+        padding: 3rem;
+        margin-top: 13.5rem;
+        height: 300px;
+    }
+
+    #videoh2 {
+        font-size: 2rem;
+        text-align: center;
+        color: black;
+        text-transform: uppercase;
+
+    }
+
+    #hr {
+        border: 1px solid black;
+        width: 50%;
+        margin-left: 25%;
+        border-top: none;
+        margin-bottom: 1rem;
+
+    }
+
+    .information div h2 {
+        color: black;
+        width: 100%;
+    }
+
+    .inf {
+        position: absolute;
+        top: 2350px;
+
+    }
+
+    #infimg {
+        height: 1300px;
+    }
+
+    .information img {
+        width: 75px;
+        height: 75px;
+        float: left;
+    }
+
+    .information h2 {
+        float: left;
+    }
+
+    .information p {
+        width: 75%;
+        font-size: 0.9rem;
+        float: left;
+        height: 75px;
+    }
+
+    .a1,
+    .a2,
+    .a3,
+    .a5,
+    .a6,
+    .a7,
+    .a8,
+    .a9 {
+
+        width: 100%;
+        float: left;
+        padding-left: 1.2rem;
+        font-weight: 600;
+        color: white;
+        font-size: 2rem;
+        padding-left: 2rem;
+    }
+}
+
+@media only screen and (max-width:410px) {
+    .containertwo h2 {
+        font-size: 3rem;
+    }
+
+    .container img {
+        height: 300px;
+    }
+
+    .container h1 {
+        font-size: 1.5rem;
+        top: 65px;
+        font-family: sans-serif;
+        font-weight: 500;
+    }
+
+    .box {
+        width: 100%;
+        float: none;
+        margin-bottom: 2.5rem;
+    }
+
+    #contact {
+        padding-right: 1rem;
+    }
+
+    .header ul li a {
+        font-size: 0.9rem;
+
+    }
+
+    .bg {
+        padding: 0;
+
+    }
+
+    .containerthree {
+        width: 100%;
+        height: 100%;
+        justify-content: none;
+        display: block;
+    }
+
+    .containerfourth img {
+        padding-top: 5rem;
+        width: 100%;
+        height: 600px;
+    }
+
+    .counter1 {
+        position: absolute;
+        top: 1430px;
+        width: 100%;
+        text-align: center;
+        font-size: 2.5rem;
+
+    }
+
+    .counter3 {
+        position: absolute;
+        top: 1540px;
+        width: 100%;
+        font-size: 2.5rem;
+
+        text-align: center;
+    }
+
+    .counter4 {
+        position: absolute;
+        top: 1640px;
+        width: 100%;
+        font-size: 2.5rem;
+
+        text-align: center;
+    }
+
+    .counter2 {
+        position: absolute;
+        top: 1760px;
+        width: 100%;
+        font-size: 2.5rem;
+
+        text-align: center;
+    }
+
+    .counterh2 {
+        position: absolute;
+        top: 1390px;
+
+        text-align: center;
+        width: 100%;
+        text-transform: uppercase;
+        font-size: 1.6rem;
+    }
+
+    .counterh2two {
+        position: absolute;
+        top: 1500px;
+        width: 100%;
+
+        font-size: 1.6rem;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .counterh2three {
+        position: absolute;
+        top: 1600px;
+        width: 100%;
+
+        font-size: 1.6rem;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .counterh2four {
+        position: absolute;
+        top: 1700px;
+        width: 100%;
+
+        font-size: 1.6rem;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .box p {
+        font-size: 1.3rem;
+        padding-bottom: 1rem;
+    }
+
+    .header ul li a:hover {
+        background-color: white;
+        color: black;
+        border: none;
+        transition: background 0.5s;
+    }
+
+    #contact a:hover {
+        color: white;
+        background-color: orange;
+        transition: background 0.5s;
+    }
+
+
+    .video {
+        position: absolute;
+        top: 1800px;
+        width: 100%;
+
+    }
+
+    .video img {
+        display: none;
+
+    }
+
+    #videoo {
+        height: 350px;
+    }
+
+    .video iframe {
+        width: 100%;
+        float: left;
+        padding: 3rem;
+        margin-top: 10rem;
+        height: 300px;
+    }
+
+    #videoh2 {
+        font-size: 2rem;
+        text-align: center;
+        color: black;
+        text-transform: uppercase;
+
+    }
+
+    #hr {
+        border: 1px solid black;
+        width: 50%;
+        margin-left: 25%;
+        border-top: none;
+        margin-bottom: 1rem;
+
+    }
+
+    .information div h2 {
+        color: black;
+        width: 100%;
+    }
+
+    .inf {
+        position: absolute;
+        top: 2250px;
+
+    }
+
+    #infimg {
+        height: 1300px;
+    }
+
+    .information img {
+        width: 75px;
+        height: 75px;
+        float: left;
+    }
+
+    .information h2 {
+        float: left;
+    }
+
+    .information p {
+        width: 75%;
+        font-size: 0.9rem;
+        float: left;
+        height: 75px;
+    }
+
+    .a1,
+    .a2,
+    .a3,
+    .a5,
+    .a6,
+    .a7,
+    .a8,
+    .a9 {
+
+        width: 100%;
+        float: left;
+        padding-left: 1.2rem;
+        font-weight: 600;
+        color: white;
+        font-size: 2rem;
+        padding-left: 2rem;
+    }
+}
+@media only screen and (max-width:380px){
+        .video {
+        position: absolute;
+        top: 1800px;
+        width: 100%;
+
+    }
+
+    .video img {
+        display: none;
+
+    }
+
+    #videoo {
+        height: 350px;
+    }
+
+    .video iframe {
+        width: 100%;
+        float: left;
+        padding: 3rem;
+        margin-top: 10rem;
+        height: 300px;
+    }
+
+    #videoh2 {
+        font-size: 2rem;
+        text-align: center;
+        color: black;
+        text-transform: uppercase;
+
+    }
+
+    #hr {
+        border: 1px solid black;
+        width: 50%;
+        margin-left: 25%;
+        border-top: none;
+        margin-bottom: 1rem;
+
+    }
+
+    .information div h2 {
+        color: black;
+        width: 100%;
+    }
+
+    .inf {
+        position: absolute;
+        top: 2300px;
+
+    }
+
+    #infimg {
+        height: 1300px;
+    }
+
+    .information img {
+        width: 75px;
+        height: 75px;
+        float: left;
+    }
+
+    .information h2 {
+        float: left;
+    }
+
+    .information p {
+        width: 75%;
+        font-size: 0.9rem;
+        float: left;
+        height: 75px;
+    }
+
+    .a1,
+    .a2,
+    .a3,
+    .a5,
+    .a6,
+    .a7,
+    .a8,
+    .a9 {
+
+        width: 100%;
+        float: left;
+        padding-left: 1.2rem;
+        font-weight: 600;
+        color: white;
+        font-size: 2rem;
+        padding-left: 2rem;
+    }
+}
+}
